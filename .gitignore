@@ -1,0 +1,16 @@
+# Compilados de Java
+*.class
+
+# Archivos de Maven
+target/
+.metadata/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+dependency-reduced-pom.xml
+
+# Configuraciones de Eclipse y VS Code
+.settings/
+.project
+.classpath
+.vscode/
