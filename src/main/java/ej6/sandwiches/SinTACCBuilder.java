@@ -1,4 +1,4 @@
-package ej5.sandwiches;
+package ej6.sandwiches;
 
 public class SinTACCBuilder extends SandwichBuilder{
 
