@@ -1,4 +1,4 @@
-package ar.edu.unlp.objetos.dos.CalculoSueldos;
+package ej2.calculoSueldos;
 
 /**
  * De esta forma crearemos las clases del ejercicio

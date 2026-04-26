@@ -1,4 +1,4 @@
-package ar.edu.unlp.objetos.dos.CalculoSueldos;
+package ej2.calculoSueldos;
 
 public class EmpPlanta extends Empleado{
 	private int cantHijos;

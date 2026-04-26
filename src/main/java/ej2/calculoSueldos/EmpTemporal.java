@@ -1,4 +1,4 @@
-package ar.edu.unlp.objetos.dos.CalculoSueldos;
+package ej2.calculoSueldos;
 
 public class EmpTemporal extends Empleado{
 	private int cantHorasTrabajadas;
